@@ -1,0 +1,8 @@
+Loan_no,Loan_status,State, Loan_Amount ,Ap_Date
+12,Open,Ranchi," $30,000.00 ",1/2/2015
+23,Close,Patna," $50,000.00 ",3/4/2017
+31,Pending,Kolkata," $80,000.00 ",9/7/2018
+43,Approval,Electronic city," $54,000.00 ",10/11/2019
+11,Rejected,Bangalore," $43,000.00 ",3/4/2017
+33,Close,Patna," $90,000.00 ",9/7/2018
+44,Open,Kolkata," $67,000.00 ",1/1/2020
